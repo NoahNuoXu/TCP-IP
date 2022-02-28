@@ -1,0 +1,61 @@
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\bin\Debug\11111.exe
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\bin\Debug\11111.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\_11111.frm_server.resources
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\_11111.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\11111.exe
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\11111.pdb
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\bin\Debug\11111.exe.config
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\bin\Debug\11111.exe
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\bin\Debug\11111.pdb
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.csproj.AssemblyReference.cache
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.csproj.SuggestedBindingRedirects.cache
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\_11111.frm_server.resources
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\_11111.Properties.Resources.resources
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.csproj.GenerateResource.cache
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.csproj.CoreCompileInputs.cache
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.exe
+D:\work\22\0207300\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.pdb
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\bin\Debug\11111.exe.config
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\bin\Debug\11111.exe
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\bin\Debug\11111.pdb
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\obj\x86\Debug\11111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\obj\x86\Debug\_11111.frm_server.resources
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\obj\x86\Debug\_11111.Properties.Resources.resources
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\obj\x86\Debug\11111.csproj.GenerateResource.cache
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\obj\x86\Debug\11111.csproj.CoreCompileInputs.cache
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\obj\x86\Debug\11111.exe
+C:\Users\Nuo\Desktop\0207300\TCP 通信\服务端\obj\x86\Debug\11111.pdb
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\bin\Debug\11111.exe.config
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\bin\Debug\11111.exe
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\bin\Debug\11111.pdb
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\obj\x86\Debug\11111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\obj\x86\Debug\_11111.frm_server.resources
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\obj\x86\Debug\_11111.Properties.Resources.resources
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\obj\x86\Debug\11111.csproj.GenerateResource.cache
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\obj\x86\Debug\11111.csproj.CoreCompileInputs.cache
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\obj\x86\Debug\11111.exe
+C:\Users\Nuo\Desktop\0207300\TCP-IP\Server\obj\x86\Debug\11111.pdb
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\bin\Debug\11111.exe.config
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\bin\Debug\11111.exe
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\bin\Debug\11111.pdb
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\11111.csproj.AssemblyReference.cache
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\11111.csproj.SuggestedBindingRedirects.cache
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\_11111.frm_server.resources
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\_11111.Properties.Resources.resources
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\11111.csproj.GenerateResource.cache
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\11111.csproj.CoreCompileInputs.cache
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\11111.exe
+D:\wechatFile\WeChat Files\wxid_zfxq00qy1yc532\FileStorage\File\2022-02\TCP-IP\TCP-IP\Server\obj\x86\Debug\11111.pdb
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\bin\Debug\11111.exe.config
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\bin\Debug\11111.exe
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\bin\Debug\11111.pdb
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\obj\x86\Debug\11111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\obj\x86\Debug\_11111.frm_server.resources
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\obj\x86\Debug\_11111.Properties.Resources.resources
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\obj\x86\Debug\11111.csproj.GenerateResource.cache
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\obj\x86\Debug\11111.csproj.CoreCompileInputs.cache
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\obj\x86\Debug\11111.exe
+C:\Users\Nuo\Desktop\New folder (2)\TCP-IP\Server\obj\x86\Debug\11111.pdb
